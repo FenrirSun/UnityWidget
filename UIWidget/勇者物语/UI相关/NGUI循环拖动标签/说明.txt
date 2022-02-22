@@ -1,0 +1,1 @@
+将此脚本挂在UIPanel和UIDraggablePanel的节点下的子GameObject上，再将循环拖动的按钮（图标等）作为它的子对象挂上。

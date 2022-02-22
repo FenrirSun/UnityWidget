@@ -1,0 +1,1 @@
+RegisterOL.xml就是RegisterRecord.cs生成和读取的

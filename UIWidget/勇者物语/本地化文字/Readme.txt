@@ -1,0 +1,5 @@
+本地化文件，gamestartlocal是在游戏刚开始时就读的，Localization里放了各种语言的版本，游戏中设定好语言类型就会直接读取对应的语言。
+O_Localization是在代码中使用的，例子：O_Localization.instance.GetText("HyjUILocal", 396)代码中就会使用对应在excel表中的类型。
+O_UILocalize是给Unity预设使用的，挂在文字控件上，在监视器上输入对应的文字和文件名即可。
+如果要增加新的本地化文件，需要在LocalizationFileName.xml中填写新的文件名。
+为编辑方便，最好是将本地化文字编写在Excel中，再用工具导出成xml

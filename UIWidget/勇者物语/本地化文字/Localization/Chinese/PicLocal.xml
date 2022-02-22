@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <row id="1" text="Login_Title_Ch" />
+  <row id="2" text="SelectJob_Title_Ch" />
+  <row id="3" text="SelectSex_Text1_Female_Ch" />
+  <row id="4" text="SelectSex_Text2_Female_Ch" />
+  <row id="5" text="SelectSex_Text3_Female_Ch" />
+  <row id="6" text="SelectSex_Text1_Male_Ch" />
+  <row id="7" text="SelectSex_Text2_Male_Ch" />
+  <row id="8" text="SelectSex_Text3_Male_Ch" />
+  <row id="9" text="SelectSex_Title_Ch" />
+  <row id="11" text="GameStart_Ch" />
+  <row id="12" text="GameStart_Selected_Ch" />
+  <row id="13" text="Option_Ch" />
+  <row id="14" text="Option_Selected_Ch" />
+  <row id="15" text="Staff_Ch" />
+  <row id="16" text="Staff_Selected_Ch" />
+  <row id="17" text="SysOption_Ch" />
+  <row id="18" text="Sound_Ch" />
+  <row id="19" text="Language_Ch" />
+  <row id="20" text="StaffTitle_Ch" />
+</root>

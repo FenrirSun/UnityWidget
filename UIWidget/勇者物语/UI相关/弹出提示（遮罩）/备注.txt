@@ -1,0 +1,5 @@
+Pop(string str)
+一个堆，可以一直往里塞提示，时间到了之后消失
+
+PopTipsWithMask(string str)
+网络交互时使用，如果不关闭就一直显示

@@ -1,0 +1,2 @@
+XML代码中的#if UNITY_EDITOR#end if 模块包括的部分，Draw和Export是技能编辑器的部分。
+该编辑器主要是通过窗口填写技能选项生成相应的XML文档，共代码调用。

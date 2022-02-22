@@ -1,0 +1,114 @@
+Assets/Envi/Fbx/Plant/Materials/mushroom_red03-New01 - Default.mat
+Assets/Resources/decal/Projectors/Sources/Materials/Shadow Material.mat
+Assets/Envi/Fbx/Prop/Materials/firepan_02-Material #11.mat
+
+Assets/Envi/Fbx/Prop/Materials/platform_1-platform_1SG.mat
+Assets/Resources/decal/Materials/Plane-No Name.mat
+Assets/EffectRes/Effect lee/Texture/feiqiu/Materials/feiqiu05.mat
+Assets/EffectRes/Effect lee/Texture/feiqiu/Materials/feiqiu01.mat
+Assets/Envi/Fbx/Prop/Materials/gem01-13 - Default.mat
+Assets/Materials/Rain.mat
+Assets/Resources/Fbx/trigger/Materials/star.mat
+Assets/Envi/Fbx/Prop/Materials/debri-02 - Default.mat
+Assets/Envi/Fbx/Prop/Materials/debri-01 - Default.mat
+Assets/Envi/Fbx/Prop/Materials/TreeHole-Standard_8.mat
+Assets/Envi/Fbx/Prop/Materials/ore01-Material #27.mat
+Assets/EffectRes/Effect lee/Materials/DropMater/Particle_3.mat
+Assets/EffectRes/Effect lee/Materials/DropMater/wp2_3.mat
+Assets/Envi/Fbx/leve1/Materials/statue_03-statue_03.mat
+Assets/EffectRes/Effect lee/Materials/NormalFire Particle.mat
+Assets/EffectRes/Effect lee/Materials/NormalFire.mat
+Assets/EffectRes/Effect lee/Materials/DropMater/Particle.mat
+Assets/EffectRes/Effect lee/Materials/DropMater/wp2.mat
+Assets/Envi/Fbx/Prop/Materials/crock_03-Material #63.mat
+Assets/Envi/Fbx/village/Materials/yanchong2-Material #0.mat
+Assets/EffectRes/Effect lee/Import/mao/Materials/m-egg_wood.mat
+Assets/Envi/Fbx/Prop/Materials/stone_02_c-10 - Default.mat
+Assets/Resources/Fbx/trigger/Materials/Box-copper.mat
+Assets/EditResources/Char/Actor/WarriorF-New/Materials/zhujiao_nv_zhanshi_shenti.mat
+Assets/EditResources/Char/Actor/WarriorF-New/Materials/zhujiao_nv_zhanshi_toufa.mat
+Assets/EditResources/Char/Actor/WarriorF-New/Materials/zhujiao_nv_zhanshi_lian.mat
+Assets/Resources/Texture/Environment/Materials/lightning6.mat
+Assets/EffectRes/Effect lee/Materials/Rock/Rock_plane_Yellow.mat
+Assets/Materials/PlanarRainSplash.mat
+Assets/Resources/Fbx/trigger/Materials/stonetablet_01.mat
+Assets/EditResources/Char/Actor/magef-new/Materials/zhujiao_nv_fashi_shenti.mat
+Assets/EditResources/Char/Actor/magef-new/Materials/zhujiao_nv_fashi_toufa.mat
+Assets/EditResources/Char/Actor/magef-new/Materials/zhujiao_nv_fashi_lian.mat
+Assets/Resources/decal/Projectors/Sources/Materials/Light Material.mat
+Assets/Envi/Fbx/Forest/Materials/totempiller_02-Material #174.mat
+Assets/EffectRes/Effect lee/Materials/DropMater/wp2_2.mat
+Assets/EffectRes/Effect lee/Materials/DropMater/Particle_2.mat
+Assets/Envi/Fbx/Prop/Materials/green_level12_stone08.mat
+Assets/Envi/Fbx/Prop/GREEN_LEVEL12_SHADOW.mat
+Assets/Envi/Fbx-35/green_level12/Materials/stone06_d-01___Default.mat
+Assets/Envi/Fbx-35/green_level12/Materials/tortoise_01-Material #89.mat
+Assets/Envi/Fbx-35/green_level12/Materials/tortoise_01-Material #88.mat
+Assets/Envi/Fbx/Prop/Materials/stone02_b-01 - Default.mat
+Assets/EffectRes/Effect lee/Materials/HealBall/Particle.mat
+Assets/EffectRes/Effect lee/Materials/HealBall/Plane.mat
+Assets/EffectRes/Effect lee/Materials/HealBall/Sphere.mat
+Assets/Resources/Fbx/CameraNode/CameraNodeColor.mat
+Assets/Envi/Fbx/Plant/Materials/rattan01_a-Rattan_01.mat
+Assets/EffectRes/Effect lee/Materials/TransmitDoor/TransmitDoor_Particle.mat
+Assets/EffectRes/Effect lee/Materials/TransmitDoor/TransmitDoor_Plane_1.mat
+Assets/EffectRes/Effect lee/Materials/TransmitDoor/TransmitDoor_Plane_2.mat
+Assets/Resources/decal/Materials/BossShadowMat.mat
+Assets/Envi/Fbx/Prop/Materials/TreeBridge_1-Standard_8.mat
+Assets/Envi/Fbx/Prop/Materials/debri_05-debri_05.mat
+Assets/Resources/Fbx/trigger/Materials/goldcoin-01 - Default.mat
+Assets/EditResources/Char/Actor/magem-New/Materials/zhujiao_nan_fashi_lian.mat
+Assets/EditResources/Char/Actor/magem-New/Materials/zhujiao_nan_fashi_shenzi.mat
+Assets/EditResources/Char/Actor/magem-New/Materials/zhujiao_nan_fashi_toufa.mat
+Assets/Envi/Fbx/Plant/Materials/debri_13-15 - Default.mat
+Assets/Envi/Fbx/Prop/Materials/stone_08-17 - Default.mat
+Assets/Resources/Fbx/trigger/Materials/GoStone.mat
+Assets/Envi/Fbx/Prop/Materials/cave_stone15.mat
+Assets/Envi/Fbx/DaoJu/Materials/JinBI.mat
+Assets/Envi/Texture/Chunzhuang/Materials/JinBitexiao.mat
+Assets/Envi/Fbx/Prop/Materials/tub_01_b-02 - Default.mat
+Assets/Resources/decal/Projectors/Sources/Materials/Grid Material.mat
+Assets/Resources/UI/SymbolMatch/Prefabs/Symbol.mat
+Assets/Envi/Fbx/Prop/Materials/stonedoor02_01-orig_02 - Default.mat
+Assets/EditResources/EffectRes/Effect lee/Materials/Jingying.mat
+Assets/EditResources/EffectRes/Effect lee/Materials/Jingying 2.mat
+Assets/EffectRes/Effect lee/Materials/DropMater/Particle_5.mat
+Assets/EffectRes/Effect lee/Materials/DropMater/wp2_5.mat
+Assets/Resources/Fbx/trigger/Materials/coppercoin-03 - Defaultr.mat
+Assets/Materials/Snow.mat
+Assets/Envi/Fbx/Prop/Materials/platform01-02 - Default.mat
+Assets/Envi/Fbx/Prop/Materials/platform01_b-02 - Default.mat
+Assets/Envi/Fbx/Forest/Materials/bigstone01-Standard_22.mat
+Assets/Resources/Fbx/trigger/Materials/Box-god.mat
+Assets/Envi/Fbx/Prop/Materials/skull_1-Standard_2.mat
+Assets/Resources/Fbx/trigger/Materials/Box-silver.mat
+Assets/EffectRes/Effect lee/Import/Materials/Fly-01-guang.mat
+Assets/Envi/Fbx/village/Materials/yanchong-Material #0.mat
+Assets/EffectRes/Effect lee/Texture/feiqiu/Materials/dunpai_01.mat
+Assets/EffectRes/Effect lee/Texture/feiqiu/Materials/dunpai.mat
+Assets/EffectRes/Effect lee/Texture/feiqiu/Materials/dunpai_03.mat
+Assets/Envi/Fbx/Prop/Materials/stone02_a-01 - Default.mat
+Assets/Resources/Fbx/trigger/Materials/rock03.mat
+Assets/Resources/Fbx/trigger/Materials/silvercoin-03 - Default.mat
+Assets/EffectRes/Effect lee/Materials/DropMater/wp2_4.mat
+Assets/EffectRes/Effect lee/Materials/DropMater/Particle_4.mat
+Assets/Envi/Fbx/Prop/Materials/debri_01-12 - Default.mat
+Assets/Envi/Fbx/Forest/Materials/timbo_05-22 - Default.mat
+Assets/Envi/Fbx/Prop/Materials/debri_07-debri_07.mat
+Assets/EffectRes/Effect lee/Materials/HealBall/ExpDrop.mat
+Assets/Resources/Fbx/trigger/Materials/ExpDrop.mat
+Assets/EffectRes/Effect lee/Materials/Rock/Rock_plane_Blue.mat
+Assets/EditResources/Char/Actor/WarriorM-New/Materials/zhujiao_nan_shenti.mat
+Assets/EditResources/Char/Actor/WarriorM-New/Materials/zhujiao_nan_tou.mat
+Assets/EditResources/Char/Actor/WarriorM-New/Materials/zhujiao_nan_lian.mat
+Assets/Resources/decal/decalsA.mat
+Assets/Envi/Fbx/Plant/Materials/Co_N_RedplantA-default.mat
+Assets/Resources/decal/Materials/PlayShadowMat.mat
+Assets/Envi/Fbx/village_forest/Materials/store_01-statue_05_03.mat
+Assets/Envi/Fbx/village_forest/Materials/store_01-statue_05_04.mat
+Assets/Envi/Fbx/village_forest/Materials/store_01-statue_05_05.mat
+Assets/Envi/Fbx/village_forest/Materials/store_01-statue_05_01.mat
+Assets/Envi/Fbx/village_forest/Materials/store_01-statue_05_02.mat
+Assets/Envi/Texture/Plant/Materials/bush_01.mat
+Assets/Envi/Fbx/Prop/Materials/stonedoor02_02-orig_02 - Default.mat
+Assets/Envi/Fbx/Prop/Materials/gem01-13 - plane.mat

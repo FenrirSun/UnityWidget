@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <row id="1" name="火近接" desc="对目标造成[para1]%倍的近接火属性伤害" command="1" target="1" speed="0" effect1="1" para1="100" para2="1" para3="0" para4="0" para5="0" />
+  <row id="2" name="水近接" desc="对目标造成[para1]%倍的近接水属性伤害" command="2" target="1" speed="0" effect1="1" para1="100" para2="2" para3="0" para4="0" para5="0" />
+  <row id="3" name="木近接" desc="对目标造成[para1]%倍的近接木属性伤害" command="3" target="1" speed="0" effect1="1" para1="100" para2="3" para3="0" para4="0" para5="0" />
+  <row id="4" name="光近接" desc="对目标造成[para1]%倍的近接光属性伤害" command="4" target="1" speed="0" effect1="1" para1="100" para2="4" para3="0" para4="0" para5="0" />
+  <row id="5" name="暗近接" desc="对目标造成[para1]%倍的近接暗属性伤害" command="5" target="1" speed="0" effect1="1" para1="100" para2="5" para3="0" para4="0" para5="0" />
+  <row id="6" name="火远程" desc="对目标造成[para1]%倍的远程火属性伤害" command="1" target="1" speed="0" effect1="1" para1="100" para2="1" para3="1" para4="0" para5="0" />
+  <row id="7" name="水远程" desc="对目标造成[para1]%倍的远程水属性伤害" command="2" target="1" speed="0" effect1="1" para1="100" para2="2" para3="1" para4="0" para5="0" />
+  <row id="8" name="木远程" desc="对目标造成[para1]%倍的远程木属性伤害" command="3" target="1" speed="0" effect1="1" para1="100" para2="3" para3="1" para4="0" para5="0" />
+  <row id="9" name="光远程" desc="对目标造成[para1]%倍的远程光属性伤害" command="4" target="1" speed="0" effect1="1" para1="100" para2="4" para3="1" para4="0" para5="0" />
+  <row id="10" name="暗远程" desc="对目标造成[para1]%倍的远程暗属性伤害" command="5" target="1" speed="0" effect1="1" para1="100" para2="5" para3="1" para4="0" para5="0" />
+  <row id="11" name="火回复" desc="对生命值最低的己方按照自身回复值小幅回复生命" command="116" target="6" speed="5" effect1="2" para1="200" para2="0" para3="0" para4="0" para5="0" />
+  <row id="12" name="水回复" desc="对生命值最低的己方按照自身回复值小幅回复生命" command="226" target="6" speed="5" effect1="2" para1="200" para2="0" para3="0" para4="0" para5="0" />
+  <row id="13" name="木回复" desc="对生命值最低的己方按照自身回复值小幅回复生命" command="336" target="6" speed="5" effect1="2" para1="200" para2="0" para3="0" para4="0" para5="0" />
+  <row id="14" name="光回复" desc="对生命值最低的己方按照自身回复值小幅回复生命" command="446" target="6" speed="5" effect1="2" para1="200" para2="0" para3="0" para4="0" para5="0" />
+  <row id="15" name="暗回复" desc="对生命值最低的己方按照自身回复值小幅回复生命" command="556" target="6" speed="5" effect1="2" para1="200" para2="0" para3="0" para4="0" para5="0" />
+  <row id="16" name="火防盾" desc="本回合全体火属性一次减伤" command="1121" target="7" speed="1000" effect1="3" para1="1" para2="1" para3="1" para4="50" para5="0" />
+  <row id="17" name="水防盾" desc="本回合全体水属性一次减伤" command="2232" target="7" speed="1000" effect1="3" para1="1" para2="1" para3="2" para4="50" para5="0" />
+  <row id="18" name="木防盾" desc="本回合全体木属性一次减伤" command="3313" target="7" speed="1000" effect1="3" para1="1" para2="1" para3="3" para4="50" para5="0" />
+  <row id="19" name="光防盾" desc="本回合全体光属性一次减伤" command="4454" target="7" speed="1000" effect1="3" para1="1" para2="1" para3="4" para4="50" para5="0" />
+  <row id="20" name="暗防盾" desc="本回合全体暗属性一次减伤" command="5545" target="7" speed="1000" effect1="3" para1="1" para2="1" para3="5" para4="50" para5="0" />
+</root>

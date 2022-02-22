@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <row id="1" text="魔法攻击" note="Ae" />
+  <row id="2" text="物理攻击" note="Ap" />
+  <row id="3" text="精神攻击" note="As" />
+  <row id="4" text="暴击值" note="Cs" />
+  <row id="5" text="闪避值" note="Da" />
+  <row id="6" text="魔法防御" note="De" />
+  <row id="7" text="物理防御" note="Dp" />
+  <row id="8" text="精神防御" note="Ds" />
+  <row id="9" text="命中值" note="Hit" />
+  <row id="10" text="生命值" note="HP" />
+  <row id="11" text="职业" note="职业" />
+  <row id="12" text="等级:" note="等级:" />
+  <row id="13" text="法师" note="职业" />
+  <row id="14" text="战士" note="职业" />
+  <row id="15" text="游侠" note="职业" />
+  <row id="16" text="姓名：" note="姓名" />
+  <row id="17" text="新建" note="新建" />
+  <row id="18" text="韧性" note="CSD" />
+</root>

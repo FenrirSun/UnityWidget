@@ -1,0 +1,102 @@
+Assets/Envi/Texture/Plant/mushroom_red01.tga
+Assets/Resources/decal/Projectors/Sources/Textures/Falloff.psd
+Assets/Resources/decal/Projectors/ShadowMap/ShadowMap.renderTexture
+Assets/Envi/Texture/Prop/platform_1.tga
+Assets/Envi/Texture/Prop/firepan_01.tga
+Assets/Resources/decal/ml2shadow.tga
+Assets/EffectRes/Effect lee/Texture/feiqiu/feiqiu01.tga
+Assets/EffectRes/Effect lee/Texture/feiqiu/feiqiu04.tga
+Assets/Envi/Texture/Prop/debri_11_01.tga
+Assets/Resources/Texture/Environment/RainStreak.psd
+Assets/Resources/Fbx/trigger/Texture/star.tga
+Assets/Envi/Water/WaterCubeMap.cubemap
+Assets/Envi/Texture/Prop/debri_b.tga
+Assets/Envi/Texture/Prop/debri_a.tga
+Assets/Envi/Texture/Forest/A_tree_trunk01.tga
+Assets/Envi/Texture/Prop/ore.tga
+Assets/EffectRes/Effect lee/Texture/DarkMeteorRain/DarkMeteorRain_Plane.tga
+Assets/EffectRes/Effect lee/Texture/LightingCage/LightingCageStar02.tga
+Assets/Envi/Texture/leve1/statue_03.TGA
+Assets/EffectRes/Effect lee/Texture/MagicWall/MagicWall_ramp.tga
+Assets/EffectRes/Effect lee/Texture/HammerRotation/HammerRotation_guangyun.tga
+Assets/EffectRes/Effect lee/Texture/Fire/fire_sequ_32.tga
+Assets/Envi/Texture/Prop/crock_02.tga
+Assets/Envi/Texture/Prop/Statue_01.tga
+Assets/EffectRes/Effect lee/Import/mao/m-egg_wood.tga
+Assets/Envi/Texture/MapZ/SpiderWebs03.tga
+Assets/Resources/Texture/Trigger/Box_copper.tga
+Assets/Resources/Shader/toony lighting.psd
+Assets/Resources/Texture/Parts/warriorf-new/zhujiao_nv_zhanshi_lian.tga
+Assets/Resources/Texture/Parts/warriorf-new/zhujiao_nv_zhanshi_toufa.tga
+Assets/Resources/Texture/Parts/warriorf-new/zhujiao_nv_zhanshi_shenti.tga
+Assets/Resources/Texture/Environment/Lightningani3.tga
+Assets/EffectRes/Effect lee/Texture/EnergyFountain/EnergyFountainguangyun.tga
+Assets/Resources/Texture/Environment/Ripple.psd
+Assets/Resources/Fbx/trigger/stonetablet_01.TGA
+Assets/Resources/Texture/Parts/magef-new/zhujiao_nv_fashi_toufa.tga
+Assets/Resources/Texture/Parts/magef-new/zhujiao_nv_fashi_shenti.tga
+Assets/Resources/Texture/Parts/magef-new/zhujiao_nv_fashi_lian.tga
+Assets/Resources/decal/Projectors/Sources/Textures/Light.psd
+Assets/Envi/Texture/Prop/totempiller_03.tga
+Assets/Envi/Texture/Map/grass16.tga
+Assets/Envi/Texture/Prop/shadow.tga
+Assets/Envi/Texture/Prop/m-tortoise-stone.tga
+Assets/Envi/Texture/Prop/m-tortoise-armor-stone.tga
+Assets/Envi/Texture/Map/grass11.tga
+Assets/Envi/Texture/Map/shanbi05.tga
+Assets/Envi/Texture/Prop/stone02_stone.tga
+Assets/EffectRes/Effect lee/Texture/MonsterDeath/MonsterDeathfx_flare_g.tga
+Assets/EffectRes/Effect lee/Texture/LightingCage/LightingCageTurbulence02.tga
+Assets/Envi/Texture/Plant/Rattan_01.tga
+Assets/EffectRes/Effect lee/Texture/NormalAttack_Hit/NormalAttack_Hitbbb_00008.tga
+Assets/EffectRes/Effect lee/Texture/LightingMoon Magic_Hit/LightingMoon Magic_Hit_single22.tga
+Assets/EffectRes/Effect lee/Texture/LightingMoon/Lightingmoon-blue.tga
+Assets/Resources/decal/Projectors/ShadowMap/BossShadowMap.renderTexture
+Assets/Envi/Texture/Forest/Z_treeG_18.tga
+Assets/Envi/Texture/Prop/debri_05.tga
+Assets/Resources/Shaders/Toon Shading/Textures/toonlighting-coin.cubemap
+Assets/Resources/Texture/Trigger/goldcoin.tga
+Assets/Resources/Texture/Parts/magem-new/zhujiao_nan_fashi_shenzi.tga
+Assets/Resources/Texture/Parts/magem-new/zhujiao_nan_fashi_toufa.tga
+Assets/Resources/Texture/Parts/magem-new/zhujiao_nan_fashi_lian.tga
+Assets/Envi/Texture/Plant/debri_11.tga
+Assets/Envi/Texture/Prop/stone_08.tga
+Assets/Envi/Texture/QYMAP_1/fr_stone_2.tga
+Assets/Envi/Texture/Prop/cave_stone15.tga
+Assets/Envi/Texture/Chunzhuang/JinBitexiao.tga
+Assets/Envi/Texture/Chunzhuang/JinBI.tga
+Assets/Envi/Texture/Prop/tub_01.tga
+Assets/Resources/decal/Projectors/Sources/Textures/grid.psd
+Assets/Resources/UI/SymbolMatch/Prefabs/SymbolPrefab.png
+Assets/Envi/Texture/Prop/stonedoor02.tga
+Assets/EffectRes/Effect lee/Texture/MonsterDeath/MonsterDeathhuan000.tga
+Assets/EffectRes/Effect lee/Texture/MonsterDeath/MonsterDeathLAN.tga
+Assets/Resources/Texture/Trigger/coppercoin.tga
+
+Assets/Envi/Texture/Prop/platform01.tga
+Assets/Envi/Texture/Prop/bigstone.tga
+Assets/Resources/Texture/Trigger/Box_god.tga
+Assets/Envi/Texture/Prop/skull_1.tga
+Assets/Resources/Texture/Trigger/Box_silver.tga
+Assets/EffectRes/Effect lee/Texture/feiqiu/dunpai_01.tga
+Assets/EffectRes/Effect lee/Texture/feiqiu/dunpai_03.tga
+Assets/Envi/Texture/MapZ/AshzaraRoots_s.tga
+Assets/Envi/Texture/MapZ/cstm_cjf_caverock27.tga
+Assets/Envi/Texture/Mapdibiao/stone02.tga
+Assets/Envi/Texture/Map/rock05.tga
+Assets/Resources/Texture/Trigger/silvercoin.tga
+Assets/Envi/Texture/Prop/debri_01_a.tga
+Assets/Envi/Texture/Prop/debri_07.tga
+Assets/EffectRes/Effect lee/Texture/LightingCage/Turbulence01.tif
+Assets/EffectRes/Effect lee/Texture/LightingMagic_Hit/LightingMagic_Hitglowaa10.tga
+Assets/EffectRes/Effect lee/Texture/LightingMagic_Cast/LightingMagic_Castglow_gray_2_blue001.tga
+Assets/Resources/Texture/Parts/warriorm-new/zhujiao_nan_lian.tga
+Assets/Resources/Texture/Parts/warriorm-new/zhujiao_nan_shenti.tga
+Assets/Resources/Texture/Parts/warriorm-new/zhujiao_nan_tou.tga
+Assets/Envi/Texture/Prop/rattan02.tga
+Assets/Envi/Texture/Plant/co_n_redplanta.tga
+Assets/Envi/Texture/village_forest/store_01_03.tga
+Assets/Envi/Texture/village_forest/store_01_02.tga
+Assets/Envi/Texture/village_forest/store_01_05.tga
+Assets/Envi/Texture/village_forest/store_01_04.tga
+Assets/Envi/Texture/village_forest/vhh_01.tga

@@ -1,0 +1,217 @@
+Assets/Resources/UINew/Atlas/Chat.mat
+Assets/Resources/UI/SymbolMatch/Prefabs/BlastSymbolSlot.mat
+Assets/Resources/UI/GrowUp/lingquMat.mat
+Assets/Resources/UI/SkillWnd/pkMat4.mat
+Assets/Resources/Shatter/Watermelon/Materials/watermelon.mat
+Assets/Resources/Fbx/trigger/Materials/silvercoin-03 - Default.mat
+Assets/Resources/UINew/Landing/logo10.mat
+Assets/Resources/UI/LevelReward/Pic/FaZhen.mat
+Assets/Resources/UI/HUD/CooldownEffect/Test2.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Mmage/Despised.mat
+Assets/Resources/Fbx/Mtrl/Frozen.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Fmage/fasnv.mat
+Assets/Resources/UI/HuoDong/WorldBoss/Boss3Material.mat
+Assets/Resources/Fbx/trigger/Materials/goldcoin-01 - Default.mat
+Assets/Resources/UINew/Strength/LV_BG.mat
+Assets/Resources/UI/LevelReward/Material/BaoXiangTuoDi.mat
+Assets/Resources/UI/LevelReward/Pic/TianFu2.mat
+Assets/Resources/UI/OperationTips/TipMask.mat
+Assets/Resources/UI/LevelReward/Pic/TianFu1.mat
+Assets/Resources/UINew/Strength/equip.mat
+Assets/Resources/UI/HUD/Prefabs/miniMap/EnemyFlagMat.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Mmage/Fear.mat
+Assets/Resources/UI/SymbolMatch/Prefabs/UnlockSymbolLight.mat
+Assets/Resources/Fbx/trigger/Texture/Materials/star.mat
+Assets/Resources/UI/HuoDong/WorldBoss/Boss2Material.mat
+Assets/Resources/UINew/Atlas/Bag.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Mmage/Common.mat
+Assets/Resources/Fbx/Parts/boss-cow3/Materials/body-Standard_1.mat
+Assets/Resources/Fbx/trigger/Materials/fighting-Material #28.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/GreenMonster/MonsterGray.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Mmage/GoToHell.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Mmage/Doubt.mat
+Assets/Resources/Shatter/Knife/KnifeMaterials.mat
+Assets/Resources/UINew/Atlas/PetAtlasVer2.mat
+Assets/Resources/UINew/Mall/Mall_icon_stone.mat
+Assets/Resources/UI/Prologue/Mat/Devil2.mat
+Assets/Resources/decal/Materials/Plane-No Name.mat
+Assets/Resources/decal/decalsA.mat
+Assets/Resources/Fbx/trigger/Materials/Box-god.mat
+Assets/Resources/UINew/Texture/Pet_effect_Evolution.mat
+Assets/Resources/Fbx/trigger/Texture/Materials/starsilver.mat
+Assets/Resources/UI/Prologue/Mat/gem.mat
+Assets/Resources/Fbx/trigger/Materials/skull-Material #28.mat
+Assets/Resources/LogicPrefabs/Pet/PetMaterial.mat
+Assets/Resources/Fbx/trigger/Materials/rock03.mat
+Assets/Resources/UINew/Icon/BaoGuoAtlas.mat
+Assets/Resources/Shaders/Toon Shading/Toony-Lighted Outline.mat
+Assets/Resources/Fbx/trigger/Materials/GoStone.mat
+Assets/Resources/UI/LevelReward/Pic/JiNeng1.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Mmage/Upset.mat
+Assets/Resources/UI/HUD/CooldownEffect/Test3.mat
+Assets/Resources/UI/SymbolMatch/Prefabs/UnlockSymbolSlot.mat
+Assets/Resources/Fbx/trigger/Texture/Materials/starcopper.mat
+Assets/Resources/UINew/Atlas/SkillEffectAtlas.mat
+Assets/Resources/UI/HuoDong/WorldBoss/BossNamediban.mat
+Assets/Resources/UI/HuoDong/WorldBoss/Boss1Material.mat
+Assets/Resources/Shaders/ScreenWipe/ScreenWipe.mat
+Assets/Resources/UINew/HUD/Fight.mat
+Assets/Resources/UI/Login/Atlas/Tex_Loading.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Mmage/Rampage.mat
+Assets/Resources/UINew/Texture/Pet_Fight.mat
+Assets/Resources/UINew/Texture/Pet_Arrow.mat
+Assets/Resources/Fbx/trigger/Materials/star.mat
+Assets/Resources/UI/SymbolMatch/Prefabs/ReviveSymbolSlot.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/NPC/Brook_anger.mat
+Assets/Resources/UINew/Mall/Mall_icon_honor.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Mmage/Xiee.mat
+Assets/Resources/Shaders/Toon Shading/Toony-Lighted.mat
+Assets/Resources/Fbx/trigger/Materials/stonetablet_01.mat
+Assets/Resources/decal/Projectors/Sources/Materials/Grid Material.mat
+Assets/Resources/UINew/Strength/equiped.mat
+Assets/Resources/Shaders/Toon Shading/Toony-BasicOutline.mat
+Assets/Resources/UI/HUD/Prefabs/miniMap/OtherPlayerFlagMat.mat
+Assets/Resources/Shaders/ScreenWipe/DrawMask.mat
+Assets/Resources/Fbx/trigger/Materials/btrfly1.mat
+Assets/Resources/UI/Login/Background/Background.mat
+Assets/Resources/UI/Login/LoadingMaterial.mat
+Assets/Resources/Texture/Environment/Materials/lightning6.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/GreenMonster/Turtle.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Fmage/Upset.mat
+Assets/Resources/UINew/Icon/ItemAtlas.mat
+Assets/Resources/UI/Font/ChineseFont26.mat
+Assets/Resources/UINew/Atlas/CommonAtlasVer2.0.mat
+Assets/Resources/UINew/Atlas/CoinAtalas.mat
+Assets/Resources/UINew/Atlas/HUDNew.mat
+Assets/Resources/UINew/Texture/Coin_CNY.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Fmage/Despised.mat
+Assets/Resources/UINew/Atlas/Vip.mat
+Assets/Resources/UI/NPC/NPCAtlas.mat
+Assets/Resources/Materials/bigmap_tree02-02 - Default.mat
+Assets/Resources/UI/Prologue/Mat/Devil1.mat
+Assets/Resources/UINew/Icon/JewelsAtlas.mat
+Assets/Resources/UI/Font/NumFont2.mat
+Assets/Resources/UI/Font/Font_BloodNum.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Fmage/Fear.mat
+Assets/Resources/UI/HUD/Prefabs/miniMap/miniMapMat.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/GreenMonster/EggThief.mat
+Assets/Resources/decal/Materials/PlayShadowMat.mat
+Assets/Resources/UI/Login/Atlas/BG_GuangPian.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Fmage/GoToHell.mat
+Assets/Resources/Fbx/trigger/Materials/coppercoin-03 - Defaultr.mat
+Assets/Resources/UI/Prologue/Mat/Vortex.mat
+Assets/Resources/UINew/Atlas/CharacterAtlasVer2.0.mat
+Assets/Resources/UINew/Texture/jewel_slotB.mat
+Assets/Resources/UINew/Texture/person_EquipBar.mat
+Assets/Resources/UI/PlayerGuideWnd/PlayerGuideAtlas.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/GreenMonster/Monster.mat
+Assets/Resources/UI/LevelReward/Prefab/RewardDoubleBgMat.mat
+Assets/Resources/Fbx/trigger/Materials/fighting-Material #27.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/BOSS/BPower.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/BOSS/SPower.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Fmage/YInXian.mat
+Assets/Resources/UINew/Mall/Mall_icon_sale8.mat
+Assets/Resources/decal/Projectors/Sources/Materials/Shadow Material.mat
+Assets/Resources/UI/LevelMap/Matrial/Plane_Cross-No Name.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/NPC/Brook_Just.mat
+Assets/Resources/UINew/Show/Show_icon_pass.mat
+Assets/Resources/UINew/Show/Black.mat
+Assets/Resources/UINew/Atlas/SkillAtlasVer2.0.mat
+Assets/Resources/UINew/Icon/SkillAtlasGray.mat
+Assets/Resources/Fbx/trigger/Materials/Box-silver.mat
+Assets/Resources/decal/decalsC.mat
+Assets/Resources/UI/RenWu/LingQuBiaoZhi.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Mmage/YInXian.mat
+Assets/Resources/Materials/bigmap_tree01-01 - Default.mat
+Assets/Resources/UINew/Icon/PropIconAtlas.mat
+Assets/Resources/UI/SymbolMatch/Prefabs/BlastSymbolLight.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Fmage/ORZ.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/NPC/Brook_Common.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar.mat
+Assets/Resources/UINew/Atlas/StoryAtlasVer2.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/NPC/Upset.mat
+Assets/Resources/UI/Mall/zhekouMaterial.mat
+Assets/Resources/UINew/Texture/Equipment_strengthen.mat
+Assets/Resources/UI/HUD/CooldownEffect/Materials/up.mat
+Assets/Resources/UI/Pet/PetWndSuCai/petLevelUpMat.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/NPC/Fluster.mat
+Assets/Resources/decal/Projectors/Sources/Materials/Light Material.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Mmage/Confident.mat
+Assets/Resources/UINew/Atlas/Mall.mat
+Assets/Resources/UI/HUD/Prefabs/miniMap/miniMapPointerMat.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/NPC/Happy.mat
+Assets/Resources/UINew/Atlas/RankingAtlasVer2.0.mat
+Assets/Resources/UINew/Font/LevelNumberNew.mat
+Assets/Resources/UI/Pet/PetWndSuCai/petStarUpMat.mat
+Assets/Resources/UINew/Strength/common_Equipment_socketB.mat
+Assets/Resources/UI/SymbolMatch/Prefabs/ReviveSymbolLight.mat
+Assets/Resources/UI/SymbolMatch/Prefabs/FrameMaterial.mat
+Assets/Resources/UI/HuoDong/duorenBgMat.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Mmage/fasnan.mat
+Assets/Resources/UINew/Icon/SkillAtlas.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Mmage/ORZ.mat
+Assets/Resources/UI/SymbolMatch/Prefabs/Symbol.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/GreenMonster/EggThief2.mat
+Assets/Resources/UINew/Strength/common_Equipment_socketA.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Fmage/Confident.mat
+Assets/Resources/UINew/Atlas/Gambing.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Luna/Luna.mat
+Assets/Resources/UI/Font/NumFont.mat
+Assets/Resources/UI/SkillWnd/UIEffect_028.mat
+Assets/Resources/Shaders/Toon Shading/Toony-Basic.mat
+Assets/Resources/UI/AddGold/baojiMat.mat
+Assets/Resources/UINew/Atlas/ShowNew.mat
+Assets/Resources/decal/Materials/BossShadowMat.mat
+Assets/Resources/UINew/Landing/logo0.mat
+Assets/Resources/decal/ml2shadow.mat
+Assets/Resources/UINew/Atlas/Dialoge.mat
+Assets/Resources/UINew/Icon/ResIconAtlas.mat
+Assets/Resources/UINew/Atlas/MissionAtlasVer2.mat
+Assets/Resources/UINew/Texture/jewel_slotA.mat
+Assets/Resources/UI/HuoDong/duorenBgMat1.mat
+Assets/Resources/Shaders/WaterDrop/WaterDrop.mat
+Assets/Resources/UI/LevelReward/Pic/JiNeng2.mat
+Assets/Resources/Fbx/Parts/boss-cow3/Materials/wp1-Material #0.mat
+Assets/Resources/UINew/Texture/common_SelectionA.mat
+Assets/Resources/UINew/LevelUp/Main_LevelUp.mat
+Assets/Resources/UINew/Atlas/SocialAtlasVer2.mat
+Assets/Resources/UI/SkillWnd/UIEffect_027.mat
+Assets/Resources/UINew/Icon/MageItems.mat
+Assets/Resources/UINew/Icon/ItemAtlasGray.mat
+Assets/Resources/UINew/Atlas/TaobaoAtlasVer2.mat
+Assets/Resources/Fbx/trigger/Materials/ExpDrop.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/NPC/Brook_Orz.mat
+Assets/Resources/UI/Prologue/Mat/Mask.mat
+Assets/Resources/Fbx/Parts/boss-cow3/Materials/wp2-Material #1.mat
+Assets/Resources/UINew/Mall/Honor.mat
+Assets/Resources/UI/LevelMap/LevelBg/Levelbgmat1.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Mmage/Angry.mat
+Assets/Resources/UI/HUD/CooldownEffect/Test1.mat
+Assets/Resources/UINew/Texture/Equipment_strengthen2.mat
+Assets/Resources/UI/Prologue/Mat/Devil1_Gem.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/NPC/Common.mat
+Assets/Resources/UINew/Atlas/Landing.mat
+Assets/Resources/UI/QteTips/QTETips.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Fmage/Xiee.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/FWarrior/zhansnv2.mat
+Assets/Resources/UINew/Font/Pet_Number.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Fmage/Angry.mat
+Assets/Resources/UI/LevelReward/Material/FaZhen.mat
+Assets/Resources/UINew/Icon/WarriorItems.mat
+Assets/Resources/UINew/Icon/PetAtlas.mat
+Assets/Resources/UI/HUD/Prefabs/HUD.mat
+Assets/Resources/UINew/Atlas/Strength.mat
+Assets/Resources/UINew/Atlas/Reward.mat
+Assets/Resources/Fbx/trigger/Materials/Box-copper.mat
+Assets/Resources/UI/SymbolMatch/Prefabs/GoForwardSymbolLight.mat
+Assets/Resources/UI/SymbolMatch/Prefabs/GoForwardSymbolSlot.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Fmage/Rampage.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Fmage/Common.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/NPC/ORZ.mat
+Assets/Resources/UINew/Atlas/Arenic.mat
+Assets/Resources/Materials/3 - Default.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/MWarrior/zhansnan2.mat
+Assets/Resources/UI/Font/NumFont2Gray.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/NPC/Luna.mat
+Assets/Resources/UI/UIScreen/UIScreenMat.mat
+Assets/Resources/UI/StoryProject/testTexture/Avatar/Character/Main/Fmage/Doubt.mat

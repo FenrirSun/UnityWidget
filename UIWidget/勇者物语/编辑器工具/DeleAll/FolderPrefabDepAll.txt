@@ -1,0 +1,632 @@
+Assets/Resources/LogicPrefabs/GamePrefabs/GameStarterprefabs.prefab
+Assets/Resources/LogicPrefabs/Trigger/Mushroom_Mine-NU.prefab
+Assets/Resources/Shaders/ML2_Diffuse.shader
+Assets/Envi/Texture/Plant/mushroom_red01.tga
+Assets/Envi/Fbx/Plant/Materials/mushroom_red03-New01 - Default.mat
+Assets/Envi/Fbx/Plant/mushroom_red03.FBX
+Assets/Resources/decal/Projectors/Blob Shadow Projector.prefab
+Assets/Resources/decal/Projectors/Sources/Textures/Falloff.psd
+Assets/Resources/decal/Projectors/Sources/Shaders/Projector Multiply.shader
+Assets/Resources/decal/Projectors/Sources/Materials/Shadow Material.mat
+Assets/Resources/decal/Projectors/ShadowMap/ShadowMap.renderTexture
+
+Assets/Envi/Fbx/Prop/Materials/firepan_02-Material #11.mat
+Assets/Envi/Texture/Prop/platform_1.tga
+Assets/Resources/LogicPrefabs/Trigger/platform_firepan.prefab
+Assets/Envi/Texture/Prop/firepan_01.tga
+Assets/Envi/Fbx/Prop/firepan_02.FBX
+Assets/Envi/Fbx/Prop/Materials/platform_1-platform_1SG.mat
+Assets/Envi/Fbx/Prop/platform_1.FBX
+Assets/Resources/decal/ml2ShadowPre.prefab
+Assets/Resources/decal/ml2shadow.tga
+Assets/Resources/decal/Plane.FBX
+Assets/Resources/decal/Materials/Plane-No Name.mat
+Assets/Resources/LogicPrefabs/GamePrefabs/GlobalSettings.prefab
+Assets/Resources/LogicPrefabs/GamePrefabs/P-FeiQiu.prefab
+Assets/EffectRes/Effect lee/Texture/feiqiu/Materials/feiqiu05.mat
+Assets/EffectRes/Effect lee/Texture/feiqiu/Materials/feiqiu01.mat
+Assets/EffectRes/Effect lee/Texture/feiqiu/feiqiu01.tga
+Assets/EffectRes/Effect lee/Texture/feiqiu/feiqiu04.tga
+Assets/Resources/LogicPrefabs/GamePrefabs/Mage.prefab
+Assets/Resources/LogicPrefabs/Trigger/gem01.prefab
+Assets/Envi/Texture/Prop/debri_11_01.tga
+Assets/Envi/Fbx/Prop/gem01.FBX
+Assets/Resources/Shaders/ML2_AlphaTestLM.shader
+Assets/Envi/Fbx/Prop/Materials/gem01-13 - Default.mat
+Assets/Resources/LogicPrefabs/Trigger/LogicGameObject.prefab
+Assets/Envi/RainFx/RainDrops_LQ0.asset
+Assets/Resources/LogicPrefabs/Environments/RainDrops.prefab
+Assets/Materials/Rain.mat
+Assets/Resources/Texture/Environment/RainStreak.psd
+Assets/Resources/Shaders/Rain.shader
+Assets/Envi/RainFx/RainDrops_LQ1.asset
+Assets/Envi/RainFx/RainDrops_LQ2.asset
+Assets/Resources/LogicPrefabs/Trigger/LuckyStar.prefab
+Assets/Resources/Fbx/trigger/Texture/star.tga
+Assets/Resources/Fbx/trigger/Star.FBX
+Assets/EffectRes/Effect lee/Animation/LuckyStar/LuckyStar_Rotation.anim
+Assets/Resources/Shaders/Toon Shading/Sources/Shaders/Toony-Basic.shader
+Assets/Resources/Fbx/trigger/Materials/star.mat
+Assets/Envi/Water/WaterCubeMap.cubemap
+Assets/Envi/Fbx/Prop/Materials/debri-02 - Default.mat
+Assets/Resources/LogicPrefabs/Trigger/debri.prefab
+Assets/Envi/Fbx/Prop/debri.FBX
+Assets/Envi/Texture/Prop/debri_b.tga
+Assets/Envi/Fbx/Prop/Materials/debri-01 - Default.mat
+Assets/Envi/Texture/Prop/debri_a.tga
+Assets/Envi/Texture/Forest/A_tree_trunk01.tga
+Assets/Resources/LogicPrefabs/Trigger/TreeHole.prefab
+Assets/Envi/Fbx/Prop/Materials/TreeHole-Standard_8.mat
+Assets/Envi/Fbx/Prop/TreeHole.FBX
+Assets/Resources/LogicPrefabs/Trigger/ore01.prefab
+Assets/Envi/Fbx/Prop/Materials/ore01-Material #27.mat
+Assets/Envi/Texture/Prop/ore.tga
+Assets/Envi/Fbx/Prop/ore01.FBX
+Assets/Resources/LogicPrefabs/Trigger/EquipmentDrop3.prefab
+Assets/EffectRes/EffectResource/Shaders/Fx/Additive.shader
+Assets/EffectRes/Effect lee/Texture/DarkMeteorRain/DarkMeteorRain_Plane.tga
+Assets/EffectRes/Effect lee/Materials/DropMater/Particle_3.mat
+Assets/EffectRes/EffectResource/Shaders/Particle/ParticleAdditive.shader
+Assets/EffectRes/Effect lee/Texture/LightingCage/LightingCageStar02.tga
+Assets/EffectRes/Effect lee/Materials/DropMater/wp2_3.mat
+Assets/Resources/LogicPrefabs/Pet/BubbleAnimation.prefab
+Assets/Resources/LogicPrefabs/Pet/BubbleIdle.anim
+Assets/Resources/LogicPrefabs/Trigger/Mushroom_Mine.prefab
+Assets/Resources/LogicPrefabs/Trigger/statue_03.prefab
+Assets/Envi/Fbx/leve1/statue_03.FBX
+Assets/Envi/Fbx/leve1/Materials/statue_03-statue_03.mat
+Assets/Envi/Texture/leve1/statue_03.TGA
+Assets/Resources/Scripts/GameHandler/Effect/Component/TextureAnimation_rep1.js
+Assets/EffectRes/Effect lee/Import/SkillEffectMesh/Plane.FBX
+Assets/Resources/LogicPrefabs/Trigger/NormalFire.prefab
+Assets/EffectRes/Effect lee/Texture/MagicWall/MagicWall_ramp.tga
+Assets/EffectRes/Effect lee/Materials/NormalFire Particle.mat
+Assets/EffectRes/Effect lee/Texture/HammerRotation/HammerRotation_guangyun.tga
+Assets/EffectRes/Effect lee/Materials/NormalFire.mat
+Assets/EffectRes/EffectResource/Shaders/Fx/MaskAdd.shader
+Assets/EffectRes/Effect lee/Texture/Fire/fire_sequ_32.tga
+Assets/Resources/LogicPrefabs/Trigger/mushroom_red03.prefab
+Assets/Resources/LogicPrefabs/Trigger/EquipmentDrop1.prefab
+Assets/EffectRes/Effect lee/Materials/DropMater/Particle.mat
+Assets/EffectRes/Effect lee/Materials/DropMater/wp2.mat
+Assets/Resources/LogicPrefabs/Trigger/crock_03.prefab
+Assets/Envi/Fbx/Prop/Materials/crock_03-Material #63.mat
+Assets/Envi/Texture/Prop/crock_02.tga
+Assets/Envi/Fbx/Prop/crock_03.FBX
+Assets/Resources/LogicPrefabs/Trigger/tower.prefab
+Assets/Envi/Fbx/village/yanchong2.FBX
+Assets/Envi/Fbx/village/Materials/yanchong2-Material #0.mat
+Assets/Envi/Texture/Prop/Statue_01.tga
+Assets/Resources/LogicPrefabs/Trigger/AirWall_Sphere.prefab
+Assets/Resources/LogicPrefabs/Trigger/TriFieldDoor.prefab
+Assets/Resources/LogicPrefabs/Trigger/LanceStab.prefab
+Assets/EffectRes/Effect lee/Import/mao/mao.FBX
+Assets/EffectRes/Effect lee/Import/mao/Materials/m-egg_wood.mat
+Assets/EffectRes/Effect lee/Import/mao/m-egg_wood.tga
+Assets/Resources/Shaders/ML2_AlphaTest.shader
+Assets/EffectRes/Effect lee/Animation/LanceStab/Stab.anim
+Assets/Resources/LogicPrefabs/Trigger/stone_02_c.prefab
+Assets/Envi/Fbx/Prop/Materials/stone_02_c-10 - Default.mat
+Assets/Envi/Texture/MapZ/SpiderWebs03.tga
+Assets/Envi/Fbx/Prop/stone_02_c.FBX
+Assets/Resources/Fbx/trigger/TreasureBox@Idle.FBX
+Assets/Resources/Texture/Trigger/Box_copper.tga
+Assets/Resources/LogicPrefabs/Trigger/TreasureBox-copper.prefab
+Assets/Resources/Shader/toony lighting.psd
+Assets/Resources/Fbx/trigger/TreasureBox.FBX
+Assets/Resources/Fbx/trigger/TreasureBox@Open.FBX
+Assets/Resources/Fbx/trigger/Materials/Box-copper.mat
+Assets/EditResources/Char/Actor/WarriorF-New/Skill6.anim
+Assets/EditResources/Char/Actor/WarriorF-New/StepLeftFoot2.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Skill4_1.anim
+Assets/Resources/Shaders/culloff-trans-cutoff-nolight.shader
+Assets/EditResources/Char/Actor/WarriorF-New/Attack3.anim
+Assets/EditResources/Char/Actor/WarriorF-New/StepLeftFoot3.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Skill3.anim
+Assets/EditResources/Char/Actor/WarriorF-New/StepLeftFoot4.anim
+Assets/Resources/LogicPrefabs/Characters/new/WarriorF.prefab
+Assets/Resources/Texture/Parts/warriorf-new/zhujiao_nv_zhanshi_lian.tga
+Assets/EditResources/Char/Actor/WarriorF-New/Skill1_1.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Skill5.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Dead1.anim
+Assets/EditResources/Char/Actor/WarriorF-New/BridgeLossBalance1.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Run1.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Attack1_1.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Fly2.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Skill2.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Walk1.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Skill4_3.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Stun.anim
+Assets/Sounds/SFX/Actor/leftfoot.wav
+Assets/Sounds/SFX/Actor/rightfoot.wav
+Assets/EditResources/Char/Actor/WarriorF-New/Fell1.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Special2.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Hurt1.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Fly1.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Materials/zhujiao_nv_zhanshi_shenti.mat
+Assets/EditResources/Char/Actor/WarriorF-New/Materials/zhujiao_nv_zhanshi_toufa.mat
+Assets/EditResources/Char/Actor/WarriorF-New/Materials/zhujiao_nv_zhanshi_lian.mat
+Assets/EditResources/Char/Actor/WarriorF-New/IdleFree1.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Special1.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Skill4_2.anim
+Assets/EditResources/Char/Actor/WarriorF-New/StepRightFoot4.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Skill1_3.anim
+Assets/Resources/Texture/Parts/warriorf-new/zhujiao_nv_zhanshi_toufa.tga
+Assets/Resources/Texture/Parts/warriorf-new/zhujiao_nv_zhanshi_shenti.tga
+Assets/EditResources/Char/Actor/WarriorF-New/Attack2.anim
+Assets/EditResources/Char/Actor/WarriorF-New/StepRightFoot3.anim
+Assets/EditResources/Char/Actor/WarriorF-New/StepRightFoot2.anim
+Assets/EditResources/Char/Actor/WarriorF-New/BridgeWalk1.anim
+Assets/EditResources/Char/Actor/WarriorF-New/StepRightFoot1.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Attack1_2.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Attack4.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Skill1_2.anim
+Assets/EditResources/Char/Actor/WarriorF-New/StepLeftFoot1.anim
+Assets/Sounds/Animation/Actor-WarriorF/WarriorF-skill1-1.mp3
+Assets/Sounds/Animation/Actor-WarriorF/WarriorF-skill1-2.mp3
+Assets/Sounds/Animation/Actor-WarriorF/WarriorF-skill1-3.mp3
+Assets/Sounds/Animation/Actor-WarriorF/WarriorF-skill1-4.mp3
+Assets/EditResources/Char/Actor/WarriorF-New/Select1.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Fly3.anim
+Assets/EditResources/Char/Actor/WarriorF-New/BridgeLossBalance2.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Win1.anim
+Assets/EditResources/Char/Actor/WarriorF-New/Up1.anim
+Assets/EditResources/Char/Actor/WarriorF-New/WarriorF.FBX
+Assets/EditResources/Char/Actor/WarriorF-New/Idle1.anim
+Assets/Sounds/Animation/Actor-WarriorF/WarriorF-hurt2.mp3
+Assets/Resources/LogicPrefabs/Environments/Lightning.prefab
+Assets/Resources/Texture/Environment/Materials/lightning6.mat
+Assets/Resources/Texture/Environment/Lightningani3.tga
+Assets/Resources/LogicPrefabs/Trigger/LightForRock_Yellow.prefab
+Assets/EffectRes/Effect lee/Animation/Rock/Rock_Plane_Yellow.anim
+Assets/EffectRes/Effect lee/Materials/Rock/Rock_plane_Yellow.mat
+Assets/EffectRes/Effect lee/Texture/EnergyFountain/EnergyFountainguangyun.tga
+Assets/EffectRes/Effect lee/Animation/FrozenIceOver/FrozenIceOver_Plane.anim
+Assets/EffectRes/Effect lee/Animation/Rock/Rock_Plane_Blue.anim
+Assets/Resources/Scripts/Environments/Rain/RainsplashBox.js
+Assets/Resources/Scripts/Environments/Rain/RainsplashManager.js
+Assets/Resources/LogicPrefabs/Environments/RainsSplashesSmall.prefab
+Assets/Resources/Shaders/RainSplash.shader
+Assets/Resources/Fbx/Environment/RainsSplashesSmall_LQ0.asset
+Assets/Materials/PlanarRainSplash.mat
+Assets/Resources/Texture/Environment/Ripple.psd
+Assets/Resources/Fbx/trigger/stonetablet_01.TGA
+Assets/Resources/LogicPrefabs/Trigger/stonetabletforlv10.prefab
+Assets/Resources/Fbx/trigger/Materials/stonetablet_01.mat
+Assets/Resources/Fbx/trigger/stonetablet_01_b.FBX
+Assets/EditResources/Char/Actor/magef-new/Attack4.anim
+Assets/EditResources/Char/Actor/magef-new/BridgeLossBalance1.anim
+Assets/EditResources/Char/Actor/magef-new/BridgeLossBalance2.anim
+Assets/EditResources/Char/Actor/magef-new/BridgeWalk1.anim
+Assets/EditResources/Char/Actor/magef-new/Dead1.anim
+Assets/EditResources/Char/Actor/magef-new/Fell1.anim
+Assets/Resources/Texture/Parts/magef-new/zhujiao_nv_fashi_toufa.tga
+Assets/Resources/LogicPrefabs/Characters/new/MageF.prefab
+Assets/EditResources/Char/Actor/magef-new/MageF.FBX
+Assets/EditResources/Char/Actor/magef-new/Idle1.anim
+Assets/EditResources/Char/Actor/magef-new/Materials/zhujiao_nv_fashi_shenti.mat
+Assets/EditResources/Char/Actor/magef-new/Materials/zhujiao_nv_fashi_toufa.mat
+Assets/EditResources/Char/Actor/magef-new/Materials/zhujiao_nv_fashi_lian.mat
+Assets/EditResources/Char/Actor/magef-new/Attack1.anim
+Assets/EditResources/Char/Actor/magef-new/Attack2.anim
+Assets/EditResources/Char/Actor/magef-new/Attack3.anim
+Assets/EditResources/Char/Actor/magef-new/Fly1.anim
+Assets/EditResources/Char/Actor/magef-new/Fly2.anim
+Assets/EditResources/Char/Actor/magef-new/Fly3.anim
+Assets/EditResources/Char/Actor/magef-new/Hurt1.anim
+Assets/EditResources/Char/Actor/magef-new/IdleFree1.anim
+Assets/EditResources/Char/Actor/magef-new/Run1.anim
+Assets/EditResources/Char/Actor/magef-new/Skill6_1.anim
+Assets/EditResources/Char/Actor/magef-new/Skill6_2.anim
+Assets/EditResources/Char/Actor/magef-new/Special1.anim
+Assets/EditResources/Char/Actor/magef-new/Special2.anim
+Assets/EditResources/Char/Actor/magef-new/StepLeftFoot1.anim
+Assets/EditResources/Char/Actor/magef-new/StepLeftFoot2.anim
+Assets/EditResources/Char/Actor/magef-new/StepLeftFoot3.anim
+Assets/Sounds/Animation/Actor-WarriorF/WarriorF-hurt3.mp3
+Assets/Sounds/Animation/Actor-WarriorF/WarriorF-hurt4.mp3
+Assets/EditResources/Char/Actor/magef-new/Walk1.anim
+Assets/EditResources/Char/Actor/magef-new/Win.anim
+Assets/Resources/Texture/Parts/magef-new/zhujiao_nv_fashi_shenti.tga
+Assets/EditResources/Char/Actor/magef-new/Select1.anim
+Assets/EditResources/Char/Actor/magef-new/Skill1.anim
+Assets/EditResources/Char/Actor/magef-new/Skill2.anim
+Assets/EditResources/Char/Actor/magef-new/Skill3.anim
+Assets/EditResources/Char/Actor/magef-new/Skill4.anim
+Assets/EditResources/Char/Actor/magef-new/Skill5.anim
+Assets/EditResources/Char/Actor/magef-new/StepLeftFoot4.anim
+Assets/EditResources/Char/Actor/magef-new/StepRightFoot1.anim
+Assets/EditResources/Char/Actor/magef-new/StepRightFoot2.anim
+Assets/EditResources/Char/Actor/magef-new/StepRightFoot3.anim
+Assets/EditResources/Char/Actor/magef-new/StepRightFoot4.anim
+Assets/EditResources/Char/Actor/magef-new/Stun.anim
+Assets/EditResources/Char/Actor/magef-new/Up1.anim
+Assets/Resources/Texture/Parts/magef-new/zhujiao_nv_fashi_lian.tga
+Assets/Resources/LogicPrefabs/Trigger/AirWall_Terrain.prefab
+Assets/Resources/LogicPrefabs/GamePrefabs/Boss.prefab
+Assets/Resources/LogicPrefabs/Environments/env.prefab
+Assets/Resources/Fbx/Environment/RainsSplashesBig_LQ0.asset
+Assets/Resources/decal/Projectors/Sources/Textures/Light.psd
+Assets/Resources/decal/Projectors/Blob Light Projector.prefab
+Assets/Resources/decal/Projectors/Sources/Shaders/Projector Light.shader
+Assets/Resources/decal/Projectors/Sources/Materials/Light Material.mat
+Assets/Resources/LogicPrefabs/Trigger/Totempiller.prefab
+Assets/Envi/Fbx/Forest/Materials/totempiller_02-Material #174.mat
+Assets/Envi/Texture/Prop/totempiller_03.tga
+Assets/Envi/Fbx/Forest/totempiller_02.FBX
+Assets/Resources/LogicPrefabs/Trigger/EquipmentDrop2.prefab
+Assets/EffectRes/Effect lee/Materials/DropMater/wp2_2.mat
+Assets/EffectRes/Effect lee/Materials/DropMater/Particle_2.mat
+Assets/Resources/LogicPrefabs/Trigger/bigtortoise.prefab
+Assets/Envi/Fbx-35/green_level12/tortoise_01.FBX
+Assets/Resources/Shaders/ML2_DiffuseNoLightMap.shader
+Assets/Envi/Fbx/Prop/cloud_01.FBX
+Assets/Envi/Fbx-35/green_level12/altar.FBX
+Assets/Envi/Fbx/Prop/Materials/green_level12_stone08.mat
+Assets/Envi/Texture/Map/grass16.tga
+Assets/Envi/Fbx/Prop/GREEN_LEVEL12_SHADOW.mat
+Assets/Envi/Texture/Prop/shadow.tga
+Assets/Envi/Fbx-35/green_level12/Materials/stone06_d-01___Default.mat
+Assets/Envi/Fbx-35/green_level12/Materials/tortoise_01-Material #89.mat
+Assets/Envi/Texture/Prop/m-tortoise-stone.tga
+Assets/Envi/Fbx-35/green_level12/Materials/tortoise_01-Material #88.mat
+Assets/Envi/Texture/Prop/m-tortoise-armor-stone.tga
+Assets/Resources/Shaders/ML2_AlphaBlend.shader
+Assets/Envi/Fbx-35/green_level12/stone06_d.FBX
+Assets/Resources/LogicPrefabs/Environments/RainsSplashesBig.prefab
+Assets/Resources/Shaders/ML2_MeshTerrain4Splats.shader
+Assets/Resources/LogicPrefabs/Trigger/stone02_b.prefab
+Assets/Envi/Fbx/Prop/Materials/stone02_b-01 - Default.mat
+Assets/Envi/Texture/Map/grass11.tga
+Assets/Envi/Texture/Map/shanbi05.tga
+Assets/Envi/Texture/Prop/stone02_stone.tga
+Assets/Envi/Fbx/Prop/stone02_b.FBX
+Assets/Resources/LogicPrefabs/Trigger/HealBall.prefab
+Assets/EffectRes/Effect lee/Animation/HealBall/HealBall_Sphere.anim
+Assets/EffectRes/Effect lee/Animation/HealBall/HealBall_Plane.anim
+Assets/EffectRes/Effect lee/Materials/HealBall/Particle.mat
+Assets/EffectRes/Effect lee/Materials/HealBall/Plane.mat
+Assets/EffectRes/Effect lee/Texture/MonsterDeath/MonsterDeathfx_flare_g.tga
+Assets/EffectRes/Effect lee/Animation/LightingMoon Start.anim
+Assets/EffectRes/Effect lee/Animation/MagicMissile/MagicMissile_PlaneLight.anim
+Assets/EffectRes/Effect lee/Materials/HealBall/Sphere.mat
+Assets/EffectRes/Effect lee/Texture/LightingCage/LightingCageTurbulence02.tga
+Assets/Resources/Fbx/CameraNode/CameraNodeColor.mat
+Assets/Resources/LogicPrefabs/CameraNodes/PathNode.prefab
+Assets/Resources/LogicPrefabs/Trigger/rattan01_a.prefab
+Assets/Envi/Fbx/Plant/rattan01_a.FBX
+Assets/Envi/Fbx/Plant/Materials/rattan01_a-Rattan_01.mat
+Assets/Envi/Texture/Plant/Rattan_01.tga
+Assets/Resources/LogicPrefabs/Trigger/ScenesChange.prefab
+Assets/EffectRes/Effect lee/Animation/TransmitDoor/TransmitDoor_Plane3.anim
+Assets/EffectRes/Effect lee/Animation/TransmitDoor/TransmitDoor_Plane2.anim
+Assets/EffectRes/Effect lee/Materials/TransmitDoor/TransmitDoor_Particle.mat
+Assets/EffectRes/Effect lee/Texture/NormalAttack_Hit/NormalAttack_Hitbbb_00008.tga
+Assets/EffectRes/Effect lee/Materials/TransmitDoor/TransmitDoor_Plane_1.mat
+Assets/EffectRes/Effect lee/Texture/LightingMoon Magic_Hit/LightingMoon Magic_Hit_single22.tga
+Assets/EffectRes/Effect lee/Materials/TransmitDoor/TransmitDoor_Plane_2.mat
+Assets/EffectRes/Effect lee/Texture/LightingMoon/Lightingmoon-blue.tga
+Assets/Resources/decal/Projectors/ShadowMap/BossShadowMap.renderTexture
+Assets/Resources/decal/ml2BossShadowPre.prefab
+Assets/Resources/decal/Materials/BossShadowMat.mat
+Assets/Resources/LogicPrefabs/Trigger/firewallroll.prefab
+Assets/Resources/LogicPrefabs/Trigger/FallingTree.prefab
+Assets/Envi/Fbx/Prop/Materials/TreeBridge_1-Standard_8.mat
+Assets/Envi/Texture/Forest/Z_treeG_18.tga
+Assets/Envi/Fbx/Prop/TreeBridge_1.FBX
+Assets/Resources/LogicPrefabs/Trigger/stonetablet_01_b.prefab
+Assets/Resources/LogicPrefabs/Trigger/AirWall_TriggerAirWall.prefab
+Assets/Resources/LogicPrefabs/Misc/CharaCollider.prefab
+Assets/Resources/LogicPrefabs/Trigger/debri_05.prefab
+Assets/Envi/Fbx/Prop/debri_05.FBX
+Assets/Envi/Fbx/Prop/Materials/debri_05-debri_05.mat
+Assets/Envi/Texture/Prop/debri_05.tga
+Assets/Resources/LogicPrefabs/Trigger/AirWall.prefab
+Assets/Resources/LogicPrefabs/Trigger/Coin-Gold.prefab
+Assets/Resources/Fbx/trigger/goldcoin.FBX
+Assets/Resources/Shaders/Toon Shading/Textures/toonlighting-coin.cubemap
+Assets/Resources/Texture/Trigger/goldcoin.tga
+Assets/Sounds/Animation/System/Gold.wav
+Assets/Resources/Fbx/trigger/Materials/goldcoin-01 - Default.mat
+Assets/EditResources/Char/Actor/magem-New/Up1.anim
+Assets/EditResources/Char/Actor/magem-New/Win.anim
+Assets/EditResources/Char/Actor/magem-New/Walk1.anim
+Assets/EditResources/Char/Actor/magem-New/Attack2.anim
+Assets/EditResources/Char/Actor/magem-New/Attack3.anim
+Assets/EditResources/Char/Actor/magem-New/Attack4.anim
+Assets/EditResources/Char/Actor/magem-New/BridgeLossBalance1.anim
+Assets/EditResources/Char/Actor/magem-New/BridgeLossBalance2.anim
+Assets/Resources/Texture/Parts/magem-new/zhujiao_nan_fashi_shenzi.tga
+Assets/Sounds/Animation/Actor-WarriorM/WarriorM-skill1-4.mp3
+Assets/Resources/LogicPrefabs/Characters/new/MageM.prefab
+Assets/Resources/Texture/Parts/magem-new/zhujiao_nan_fashi_toufa.tga
+Assets/Resources/Texture/Parts/magem-new/zhujiao_nan_fashi_lian.tga
+Assets/EditResources/Char/Actor/magem-New/Materials/zhujiao_nan_fashi_lian.mat
+Assets/EditResources/Char/Actor/magem-New/Materials/zhujiao_nan_fashi_shenzi.mat
+Assets/EditResources/Char/Actor/magem-New/Materials/zhujiao_nan_fashi_toufa.mat
+Assets/EditResources/Char/Actor/magem-New/Attack1.anim
+Assets/EditResources/Char/Actor/magem-New/MageM.FBX
+Assets/EditResources/Char/Actor/magem-New/Idle1.anim
+Assets/Sounds/Animation/Actor-WarriorM/WarriorM-hurt1.mp3
+Assets/Sounds/Animation/Actor-WarriorM/WarriorM-hurt2.mp3
+Assets/Sounds/Animation/Actor-WarriorM/WarriorM-skill1-1.mp3
+Assets/Sounds/Animation/Actor-WarriorM/WarriorM-skill1-2.mp3
+Assets/EditResources/Char/Actor/magem-New/Skill4.anim
+Assets/EditResources/Char/Actor/magem-New/Skill5.anim
+Assets/EditResources/Char/Actor/magem-New/Skill6_1.anim
+Assets/EditResources/Char/Actor/magem-New/Skill6_2.anim
+Assets/EditResources/Char/Actor/magem-New/Special1.anim
+Assets/EditResources/Char/Actor/magem-New/Special2.anim
+Assets/EditResources/Char/Actor/magem-New/StepLeftFoot1.anim
+Assets/EditResources/Char/Actor/magem-New/StepLeftFoot2.anim
+Assets/EditResources/Char/Actor/magem-New/StepLeftFoot3.anim
+Assets/EditResources/Char/Actor/magem-New/StepLeftFoot4.anim
+Assets/EditResources/Char/Actor/magem-New/StepRightFoot1.anim
+Assets/EditResources/Char/Actor/magem-New/StepRightFoot2.anim
+Assets/EditResources/Char/Actor/magem-New/StepRightFoot3.anim
+Assets/EditResources/Char/Actor/magem-New/StepRightFoot4.anim
+Assets/EditResources/Char/Actor/magem-New/Stun.anim
+Assets/EditResources/Char/Actor/magem-New/BridgeWalk1.anim
+Assets/EditResources/Char/Actor/magem-New/Dead1.anim
+Assets/EditResources/Char/Actor/magem-New/Fell1.anim
+Assets/EditResources/Char/Actor/magem-New/Fly1.anim
+Assets/EditResources/Char/Actor/magem-New/Fly2.anim
+Assets/EditResources/Char/Actor/magem-New/Fly3.anim
+Assets/EditResources/Char/Actor/magem-New/Hurt1.anim
+Assets/EditResources/Char/Actor/magem-New/IdleFree1.anim
+Assets/EditResources/Char/Actor/magem-New/Run1.anim
+Assets/EditResources/Char/Actor/magem-New/Select1.anim
+Assets/EditResources/Char/Actor/magem-New/Skill1.anim
+Assets/EditResources/Char/Actor/magem-New/Skill2.anim
+Assets/EditResources/Char/Actor/magem-New/Skill3.anim
+Assets/Envi/Fbx/Plant/Materials/debri_13-15 - Default.mat
+Assets/Envi/Texture/Plant/debri_11.tga
+Assets/Resources/LogicPrefabs/Trigger/debri_13.prefab
+Assets/Envi/Fbx/Plant/debri_13.FBX
+Assets/Envi/Texture/Prop/stone_08.tga
+Assets/Envi/Fbx/Prop/Materials/stone_08-17 - Default.mat
+Assets/Resources/LogicPrefabs/Trigger/MagicStone.prefab
+Assets/Envi/Fbx/Prop/stone_08.FBX
+Assets/Envi/Texture/QYMAP_1/fr_stone_2.tga
+Assets/Resources/LogicPrefabs/Trigger/RollingStone-big.prefab
+Assets/Resources/Fbx/trigger/GoStone.FBX
+Assets/Resources/Fbx/trigger/Materials/GoStone.mat
+Assets/Envi/Fbx/Prop/Materials/cave_stone15.mat
+Assets/Envi/Texture/Prop/cave_stone15.tga
+Assets/Resources/LogicPrefabs/Trigger/Cave_Stone15_small.prefab
+Assets/Envi/Fbx/Prop/Cave_Stone15.FBX
+Assets/Resources/LogicPrefabs/Trigger/platform_1.prefab
+Assets/Resources/LogicPrefabs/Trigger/RollingStone.prefab
+Assets/Resources/LogicPrefabs/Trigger/stone02.prefab
+Assets/Envi/Texture/Chunzhuang/JinBitexiao.tga
+Assets/Envi/Fbx/DaoJu/Materials/JinBI.mat
+Assets/Envi/Texture/Chunzhuang/Materials/JinBitexiao.mat
+Assets/Envi/Texture/Chunzhuang/JinBI.tga
+Assets/Resources/Fbx/trigger/P-JinBI002.prefab
+Assets/Sounds/Animation/System/gold1.wav
+Assets/Sounds/Animation/System/gold0.wav
+Assets/Envi/Fbx/DaoJu/JinBI002.FBX
+Assets/Resources/LogicPrefabs/Trigger/firepan_03.prefab
+Assets/Envi/Texture/Prop/tub_01.tga
+Assets/Envi/Fbx/Prop/Materials/tub_01_b-02 - Default.mat
+Assets/Resources/LogicPrefabs/Trigger/tub_01_b.prefab
+Assets/Envi/Fbx/Prop/tub_01_b.FBX
+Assets/Resources/decal/Projectors/Sources/Textures/grid.psd
+Assets/Resources/decal/Projectors/Sources/Materials/Grid Material.mat
+Assets/Resources/decal/Projectors/Grid Projector.prefab
+Assets/Resources/UI/SymbolMatch/Prefabs/SymbolPrefab.png
+Assets/O_NGUI/Resources/Shaders/Unlit - Transparent Colored.shader
+Assets/Resources/LogicPrefabs/Pet/BubbleClock.prefab
+Assets/Resources/UI/SymbolMatch/Prefabs/Symbol.mat
+Assets/Resources/UI/SymbolMatch/Prefabs/SymbolPrefab.prefab
+Assets/Envi/Fbx/Prop/Materials/stonedoor02_01-orig_02 - Default.mat
+Assets/Envi/Texture/Prop/stonedoor02.tga
+Assets/Resources/LogicPrefabs/Trigger/stonedoor02_01.prefab
+Assets/Envi/Fbx/Prop/stonedoor02_01.FBX
+Assets/EffectRes/Effect lee/Texture/MonsterDeath/MonsterDeathhuan000.tga
+Assets/EditResources/EffectRes/Effect lee/Materials/Jingying.mat
+Assets/EffectRes/Effect lee/Texture/MonsterDeath/MonsterDeathLAN.tga
+Assets/EditResources/EffectRes/Effect lee/Materials/Jingying 2.mat
+Assets/Resources/decal/EliteDecal.prefab
+Assets/EffectRes/Effect lee/Animation/EliteCircle/EliteCircle_Ro.anim
+Assets/EffectRes/Effect lee/Import/Basic/Plane_Cross.FBX
+Assets/EffectRes/Effect lee/Animation/EliteCircle/EliteCircle_alphe.anim
+Assets/Resources/LogicPrefabs/Trigger/CopperBox.prefab
+Assets/EffectRes/Effect lee/Materials/DropMater/Particle_5.mat
+Assets/EffectRes/Effect lee/Materials/DropMater/wp2_5.mat
+Assets/Resources/LogicPrefabs/Trigger/EquipmentDrop5.prefab
+Assets/Resources/LogicPrefabs/Environments/PointLight.prefab
+Assets/Resources/LogicPrefabs/Trigger/Coin-Copper.prefab
+Assets/Resources/Fbx/trigger/coppercoin.FBX
+Assets/Resources/Texture/Trigger/coppercoin.tga
+Assets/Resources/Fbx/trigger/Materials/coppercoin-03 - Defaultr.mat
+Assets/Resources/LogicPrefabs/Trigger/Editor/BirthPoint.prefab
+Assets/Resources/LogicPrefabs/Trigger/HangBottle.prefab
+Assets/Materials/Snow.mat
+Assets/Resources/LogicPrefabs/Environments/Snowflakes.prefab
+Assets/Envi/SnowFx/Snowflakes_LQ0.asset
+Assets/Envi/SnowFx/Snowflakes_LQ1.asset
+Assets/Envi/SnowFx/Snowflakes_LQ2.asset
+Assets/Resources/Shaders/Snow.shader
+Assets/Envi/Fbx/Prop/Materials/platform01-02 - Default.mat
+Assets/Envi/Fbx/Prop/Materials/platform01_b-02 - Default.mat
+Assets/Envi/Texture/Prop/platform01.tga
+Assets/Resources/LogicPrefabs/Trigger/platform.prefab
+Assets/Envi/Fbx/Prop/platform01.FBX
+Assets/Envi/Fbx/Prop/platform01_b.FBX
+Assets/Resources/Scripts/UIManager/Test/Panel.prefab
+Assets/Envi/Texture/Prop/bigstone.tga
+Assets/Envi/Fbx/Forest/Materials/bigstone01-Standard_22.mat
+Assets/Resources/LogicPrefabs/Trigger/tower_robot.prefab
+Assets/Envi/Fbx/Forest/bigstone01.FBX
+Assets/Resources/Texture/Trigger/Box_god.tga
+Assets/Resources/Fbx/trigger/Materials/Box-god.mat
+Assets/Envi/Fbx/Prop/Materials/skull_1-Standard_2.mat
+Assets/Envi/Texture/Prop/skull_1.tga
+Assets/Envi/Fbx/Prop/skull_1.FBX
+Assets/Resources/LogicPrefabs/Trigger/skull_1.prefab
+Assets/Resources/LogicPrefabs/Trigger/CubeCollider.prefab
+Assets/Resources/LogicPrefabs/Misc/CameraShakeController.prefab
+Assets/Resources/Scripts/Misc/CameraShake.anim
+Assets/Resources/Texture/Trigger/Box_silver.tga
+Assets/Resources/LogicPrefabs/Trigger/TreasureBox-silver.prefab
+Assets/Resources/Fbx/trigger/Materials/Box-silver.mat
+Assets/Resources/decal/Projectors/ShadowCamera.prefab
+Assets/EffectRes/Effect lee/Import/Materials/Fly-01-guang.mat
+Assets/Resources/LogicPrefabs/Trigger/YBoss_Status2.prefab
+Assets/EffectRes/Effect lee/Import/Fly.FBX
+Assets/EffectRes/Effect lee/Animation/YBoss_Status2.anim
+Assets/Resources/Fbx/trigger/RollingStone.prefab
+Assets/Envi/Fbx/village/Materials/yanchong-Material #0.mat
+Assets/Resources/LogicPrefabs/Trigger/icemissile.prefab
+Assets/Envi/Fbx/village/yanchong.FBX
+Assets/Resources/LogicPrefabs/Trigger/platform01.prefab
+Assets/Resources/LogicPrefabs/Trigger/platform01_b.prefab
+Assets/Resources/LogicPrefabs/Trigger/stone_02_c_1.prefab
+Assets/EffectRes/Effect lee/Texture/feiqiu/dunpai_01.tga
+Assets/EffectRes/Effect lee/Texture/feiqiu/Materials/dunpai_01.mat
+Assets/EffectRes/Effect lee/Texture/feiqiu/dunpai_03.tga
+Assets/EffectRes/Effect lee/Texture/feiqiu/Materials/dunpai.mat
+Assets/EffectRes/Effect lee/Import/feiqiu/dunpai01.FBX
+Assets/EffectRes/Effect lee/Texture/feiqiu/Materials/dunpai_03.mat
+Assets/Resources/LogicPrefabs/GamePrefabs/P-dunpai01.prefab
+Assets/Resources/LogicPrefabs/Trigger/tower_robot1.prefab
+Assets/Envi/Texture/MapZ/AshzaraRoots_s.tga
+Assets/Envi/Texture/MapZ/cstm_cjf_caverock27.tga
+Assets/Envi/Texture/Mapdibiao/stone02.tga
+Assets/Envi/Fbx/Prop/Materials/stone02_a-01 - Default.mat
+Assets/Resources/LogicPrefabs/Trigger/stone02_a.prefab
+Assets/Envi/Fbx/Prop/stone02_a.FBX
+Assets/Resources/LogicPrefabs/Trigger/JumpStone.prefab
+Assets/Envi/Texture/Map/rock05.tga
+Assets/Resources/LogicPrefabs/Trigger/stonedoor.prefab
+Assets/Resources/Fbx/trigger/Materials/rock03.mat
+Assets/Resources/Fbx/trigger/stonedoor.FBX
+Assets/Resources/Texture/Trigger/silvercoin.tga
+Assets/Resources/LogicPrefabs/Trigger/Coin-Silver.prefab
+Assets/Resources/Fbx/trigger/Materials/silvercoin-03 - Default.mat
+Assets/Resources/Fbx/trigger/silvercoin.FBX
+Assets/EffectRes/Effect lee/Materials/DropMater/wp2_4.mat
+Assets/EffectRes/Effect lee/Materials/DropMater/Particle_4.mat
+Assets/Resources/LogicPrefabs/Trigger/EquipmentDrop4.prefab
+Assets/Resources/Fbx/trigger/P-JinBI.prefab
+Assets/Envi/Fbx/DaoJu/JinBI.FBX
+Assets/Resources/LogicPrefabs/Trigger/firepan_02.prefab
+Assets/Resources/LogicPrefabs/Trigger/TreasureBoxCover.prefab
+Assets/Envi/Texture/Prop/debri_01_a.tga
+Assets/Envi/Fbx/Prop/Materials/debri_01-12 - Default.mat
+Assets/Resources/LogicPrefabs/Trigger/guide_stone.prefab
+Assets/Envi/Fbx/Prop/debri_01.FBX
+Assets/Envi/Fbx/Forest/Materials/timbo_05-22 - Default.mat
+Assets/Resources/LogicPrefabs/Trigger/fence01_b.prefab
+Assets/Envi/Fbx/Prop/fence01_b.FBX
+Assets/Envi/Fbx/Prop/Materials/debri_07-debri_07.mat
+Assets/Envi/Texture/Prop/debri_07.tga
+Assets/Envi/Fbx/Prop/debri_07.FBX
+Assets/Resources/LogicPrefabs/Trigger/debri_07.prefab
+Assets/EffectRes/Effect lee/Materials/HealBall/ExpDrop.mat
+Assets/EffectRes/Effect lee/Texture/LightingCage/Turbulence01.tif
+Assets/EffectRes/Effect lee/Texture/LightingMagic_Hit/LightingMagic_Hitglowaa10.tga
+Assets/Resources/Fbx/trigger/Materials/ExpDrop.mat
+Assets/Resources/LogicPrefabs/Trigger/ExpDrop.prefab
+Assets/EffectRes/Effect lee/Texture/LightingMagic_Cast/LightingMagic_Castglow_gray_2_blue001.tga
+Assets/EffectRes/Effect lee/Materials/Rock/Rock_plane_Blue.mat
+Assets/Resources/LogicPrefabs/Trigger/LightForRock_Blue.prefab
+Assets/Resources/Fbx/trigger/stonetablet_01_a.FBX
+Assets/Resources/LogicPrefabs/Trigger/stonetablet_01_a.prefab
+Assets/Resources/LogicPrefabs/Trigger/SphereCollider.prefab
+Assets/Resources/LogicPrefabs/Trigger/BirthPoint.prefab
+Assets/EditResources/Char/Actor/WarriorM-New/Fly3.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Win1.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Select1.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Special2.anim
+Assets/EditResources/Char/Actor/WarriorM-New/StepLeftFoot3.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Attack4.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Fly1.anim
+Assets/EditResources/Char/Actor/WarriorM-New/StepRightFoot2.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Skill4_2.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Skill2.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Materials/zhujiao_nan_shenti.mat
+Assets/EditResources/Char/Actor/WarriorM-New/BridgeLossBalance1.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Materials/zhujiao_nan_tou.mat
+Assets/EditResources/Char/Actor/WarriorM-New/BridgeLossBalance2.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Attack1_1.anim
+Assets/EditResources/Char/Actor/WarriorM-New/BridgeWalk1.anim
+Assets/EditResources/Char/Actor/WarriorM-New/IdleFree1.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Skill6.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Skill1_2.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Attack3.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Skill1_1.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Dead1.anim
+Assets/EditResources/Char/Actor/WarriorM-New/StepLeftFoot2.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Hurt1.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Skill1_3.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Special1.anim
+Assets/EditResources/Char/Actor/WarriorM-New/StepRightFoot1.anim
+Assets/EditResources/Char/Actor/WarriorM-New/StepLeftFoot1.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Skill3.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Skill4_3.anim
+Assets/EditResources/Char/Actor/WarriorM-New/StepLeftFoot4.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Fly2.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Run1.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Skill4_1.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Attack1_2.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Walk1.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Stun.anim
+Assets/EditResources/Char/Actor/WarriorM-New/StepRightFoot3.anim
+Assets/EditResources/Char/Actor/WarriorM-New/StepRightFoot4.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Fell1.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Up1.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Attack2.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Skill5.anim
+Assets/EditResources/Char/Actor/WarriorM-New/Materials/zhujiao_nan_lian.mat
+Assets/Resources/Shader/culloff-trans-cutoff-nolight.shader
+Assets/Resources/Texture/Parts/warriorm-new/zhujiao_nan_lian.tga
+Assets/Resources/LogicPrefabs/Characters/new/WarriorM.prefab
+Assets/Resources/Texture/Parts/warriorm-new/zhujiao_nan_shenti.tga
+Assets/EditResources/Char/Actor/WarriorM-New/WarriorM.FBX
+Assets/EditResources/Char/Actor/WarriorM-New/Idle1.anim
+Assets/Resources/Texture/Parts/warriorm-new/zhujiao_nan_tou.tga
+Assets/Envi/Texture/Prop/rattan02.tga
+Assets/Resources/decal/DecalPre.prefab
+Assets/Resources/decal/decalsA.mat
+Assets/Resources/Extranal/DefaultPrefab/LayerMask.prefab
+Assets/Envi/Fbx/Plant/Materials/Co_N_RedplantA-default.mat
+Assets/Envi/Texture/Plant/co_n_redplanta.tga
+Assets/Resources/LogicPrefabs/Trigger/Co_N_RedplantA.prefab
+Assets/Envi/Fbx/Plant/Co_N_RedplantA.FBX
+Assets/Resources/LogicPrefabs/Pet/UIBubbleParent.prefab
+Assets/Resources/LogicPrefabs/Trigger/TreasureBox-gold.prefab
+Assets/Resources/LogicPrefabs/Environments/EnVironments.prefab
+Assets/Resources/decal/Materials/PlayShadowMat.mat
+Assets/Resources/decal/ml2PlayerShadowPre.prefab
+Assets/Resources/LogicPrefabs/Trigger/P-M_Egg.prefab
+Assets/Envi/Texture/village_forest/store_01_03.tga
+Assets/Envi/Fbx/village_forest/Materials/store_01-statue_05_03.mat
+Assets/Envi/Texture/village_forest/store_01_02.tga
+Assets/Envi/Texture/village_forest/store_01_05.tga
+Assets/Envi/Fbx/village_forest/Materials/store_01-statue_05_04.mat
+Assets/Envi/Texture/village_forest/store_01_04.tga
+Assets/Envi/Fbx/village_forest/Materials/store_01-statue_05_05.mat
+Assets/Envi/Fbx/village_forest/Materials/store_01-statue_05_01.mat
+Assets/Envi/Fbx/village_forest/Materials/store_01-statue_05_02.mat
+Assets/Envi/Texture/Plant/Materials/bush_01.mat
+Assets/Envi/Texture/village_forest/vhh_01.tga
+Assets/Resources/LogicPrefabs/Trigger/store_01.prefab
+Assets/Envi/Fbx/village_forest/store_01.FBX
+Assets/Resources/LogicPrefabs/Trigger/StoneTooth.prefab
+Assets/Standard Assets/Physic Materials/Bouncy.physicmaterial
+Assets/Resources/LogicPrefabs/Trigger/TriggerHealBall.prefab
+Assets/Envi/Fbx/Prop/Materials/stonedoor02_02-orig_02 - Default.mat
+Assets/Resources/LogicPrefabs/Trigger/stonedoor02_02.prefab
+Assets/Envi/Fbx/Prop/stonedoor02_02.FBX
+Assets/Resources/LogicPrefabs/Trigger/fence01_b 1.prefab
+Assets/Resources/LogicPrefabs/Trigger/firewallroll 1.prefab
+Assets/Resources/decal/Projectors/BossShadowCamera.prefab
+Assets/Resources/LogicPrefabs/CameraNodes/CustomNode.prefab
+Assets/Resources/LogicPrefabs/Environments/AmbientLight.prefab
+Assets/Envi/Fbx/Prop/Materials/gem01-13 - plane.mat
+Assets/Resources/LogicPrefabs/Trigger/gem02.prefab
+Assets/EffectRes/Effect lee/Animation/gem01/gem01_Up.anim
+Assets/EffectRes/Effect lee/Animation/gem01/gem01_Plane.anim
+Assets/EffectRes/Effect lee/Animation/gem01/gem01_Rotation.anim

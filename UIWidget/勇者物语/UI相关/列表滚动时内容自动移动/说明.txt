@@ -1,0 +1,2 @@
+ActiveDraggablePanelNew挂在在scrollview上检查是否需要翻页
+CharEquipPanel接受到需要翻页的信息后翻新页面数据

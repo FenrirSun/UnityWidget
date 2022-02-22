@@ -1,0 +1,2 @@
+AtlasMap作为一个component挂在GameObject上，然后将图片资源序列化在其中，并且保存成prefab。
+prefab就可以放在resource文件夹下面了（也可以热更新），用的时候取到其中的AtlasMap并取出相应图片文件即可。
